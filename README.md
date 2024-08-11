@@ -22,13 +22,23 @@ https://www.loom.com/share/b12a1f9ab67e48ae8e90efff18bccc9b?sid=6a306c49-9d1a-4b
 
  # How to Run <br/>
  
-   <h2>Installation</h2>
-   git remote add origin 
-   Clone the repository:   ``` git clone https://github.com/ayush-20221/reachinbox.git  ``` <br/>
-   Navigate to the project directory:   ``` cd reachinbox ``` <br/>
-   Install the dependencies:   ``` npm install ``` <br/>
-   Start the development server:   ``` npm run dev ``` <br/>
-   Open your browser and visit:   ```  http://localhost:5173/ ``` <br/>
+<h2>Installation</h2>
+  
+<h3>Clone the Repository</h3>
+<pre><code>git clone https://github.com/ayush-20221/reachinbox.git</code></pre>
+
+<h3>Navigate to the Project Directory</h3>
+<pre><code>cd reachinbox</code></pre>
+
+<h3>Install the Dependencies</h3>
+<pre><code>npm install</code></pre>
+
+<h3>Start the Development Server</h3>
+<pre><code>npm run dev</code></pre>
+
+<h3>Open Your Browser and Visit</h3>
+<pre><code>http://localhost:5173/</code></pre>
+
   
 
  
