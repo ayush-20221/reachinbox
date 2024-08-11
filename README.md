@@ -23,8 +23,8 @@ https://www.loom.com/share/b12a1f9ab67e48ae8e90efff18bccc9b?sid=6a306c49-9d1a-4b
  # How to Run <br/>
  
    <h2>Installation</h2>
-   
-   Clone the repository:   ``` git clone https://github.com/JahirPendhari09/ReachInBox-Frontend.git  ``` <br/>
+   git remote add origin 
+   Clone the repository:   ``` git clone https://github.com/ayush-20221/reachinbox.git  ``` <br/>
    Navigate to the project directory:   ``` cd reachinbox ``` <br/>
    Install the dependencies:   ``` npm install ``` <br/>
    Start the development server:   ``` npm run dev ``` <br/>
