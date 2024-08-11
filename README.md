@@ -37,7 +37,7 @@ https://www.loom.com/share/b12a1f9ab67e48ae8e90efff18bccc9b?sid=6a306c49-9d1a-4b
 <pre><code>npm run dev</code></pre>
 
 <h3>Open Your Browser and Visit</h3>
-<pre><code>http://localhost:5173/</code></pre>
+<pre><code>http://localhost:5174/</code></pre>
 
   
 
