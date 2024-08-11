@@ -16,7 +16,7 @@ https://documenter.getpostman.com/view/30630244/2sA2rCTMKr#f45cb7f3-d007-4df5-83
 
 
 ## Demo Video :- 
-https://www.loom.com/share/b12a1f9ab67e48ae8e90efff18bccc9b?sid=6a306c49-9d1a-4b37-9dfa-21b4538e3831
+
 
 
 
